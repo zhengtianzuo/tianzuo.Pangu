@@ -23,8 +23,6 @@ According to legend, at the beginning of the chaos of heaven and earth, Pangu wo
 # motivation
 Build CS architecture IM communication system, support text/expression/picture/voice/video/remote desktop/remote control/whiteboard and other functions.
 
-![](img/tianzuo.Pangu.png)
-
 # features
 
 - 🧩 simple integration
